@@ -6,16 +6,16 @@ Airbnb, headquartered in San Francisco, California, operates a popular online ma
 
 ## Table of Contents
 - [Description](#description)
-- [Data Description](#datadescription)
-- [Software/Tools](#Software/Tools)
-- [Business Objective](#BusinessObjective)
-- [Project Goals](#ProjectGoals)
-- [Installation](#Installation)
+- [Data Description](#data-description)
+- [Software/Tools](#softwaretools)
+- [Business Objective](#business-objective)
+- [Project Goals](#project-goals)
+- [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#Screenshots)
-- [Contributing](#Contributing)
-- [License](#License)
-- [Contact](#Contact)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Data Description
 - The necessary data and data dictionaries are available as CSV files.
