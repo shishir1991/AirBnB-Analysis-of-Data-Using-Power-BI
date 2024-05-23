@@ -51,8 +51,8 @@ The primary objective is to analyze Airbnb data to reveal insights into user exp
    - Data source files (Listings_data_dictionary.csv, Reviews_data_dictionary.csv)
 
 ## Usage
-   - Open the Airbnb_Data_Analysis.pbix file in Power BI Desktop.
-   - Navigate through the different pages of the report to explore various insights:
+   1. Open the Airbnb_Data_Analysis.pbix file in Power BI Desktop.
+   2. Navigate through the different pages of the report to explore various insights:
      
    - Overview: Summary of key metrics and KPIs
    - District Location Scores: Analysis of the least favorable location scores by district
@@ -65,6 +65,7 @@ The primary objective is to analyze Airbnb data to reveal insights into user exp
 
 ## Screenshots
    - District Location Scores
+     
  ![image](https://github.com/shishir1991/AirBnB_Power-BI_Project/assets/157515610/263791e0-3034-44e9-9d30-6f10b742fd7d)
 
    - As per the Stacked column  chart, the statistics shows that Hong Kong city has the least favourable location score with total of just 36108.
