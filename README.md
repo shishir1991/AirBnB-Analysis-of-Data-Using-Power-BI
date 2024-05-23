@@ -64,12 +64,79 @@ The primary objective is to analyze Airbnb data to reveal insights into user exp
    - City Insights Report: Comprehensive report on listing prices, guest ratings, and visitor trends, with a focus on 2020 changes
 
 ## Screenshots
-   - District Location Scores
+   ### District Location Scores
      
- ![image](https://github.com/shishir1991/AirBnB_Power-BI_Project/assets/157515610/263791e0-3034-44e9-9d30-6f10b742fd7d)
+   ![image](https://github.com/shishir1991/AirBnB_Power-BI_Project/assets/157515610/263791e0-3034-44e9-9d30-6f10b742fd7d)
 
    - As per the Stacked column  chart, the statistics shows that Hong Kong city has the least favourable location score with total of just 36108.
    - Also Paris city has the most favourable location score with the total of 464616.
+     
+   ### Host Response Time Impact
+
+   ![image](https://github.com/shishir1991/AirBnB_Power-BI_Project/assets/157515610/e87e5f40-0460-449e-8267-4186dcf96a59)
+
+   - The Clustered Column Chart here shows that 83K of the host response time is within an hour.
+   - Also the host with maximum review score rating of 66K response within an hour. So customers prefer host which response quickly to their queries.
+
+   ### Listing Prices
+
+   ![image](https://github.com/shishir1991/AirBnB_Power-BI_Project/assets/157515610/38073107-738e-43fc-91ff-7a4c6311f2d4)
+
+   - According to line chart analysis Rome city has the best affordable price as compared to others with average price of $105.11
+
+   ### Analysing Composite Scores
+
+   ![image](https://github.com/shishir1991/AirBnB_Power-BI_Project/assets/157515610/98893b15-294f-4316-b9fd-a6867fce47f0)
+
+   - According to the stacked column chart here we can see that the Staten Island district has the highest average Review score for communication as well as for check-in which states that host of this district are much interactive in 
+     responding to queries and care about a comfortable check-in of their customers.
+
+   ### Listing Age and Host Tenure
+
+   ![image](https://github.com/shishir1991/AirBnB_Power-BI_Project/assets/157515610/b127f65b-15b1-41b7-896e-8945e9422335)
+
+   - The respective chart shows here the statistics of total number of listing age and host tenure in years. 
+   - Here 15662 no. of host have 11 years of hosting tenure which is the maximum of all other hosts whereas only 65 hosts having 15 years of hosting tenure.
+
+   ### Property Type Price Analysis
+
+   ![image](https://github.com/shishir1991/AirBnB_Power-BI_Project/assets/157515610/b37cb56f-3e35-47c0-9155-2cb255d1085f)
+
+   - The task involves the creation of a visual tree map that displays average prices for various room and property types with specific attention given to the property type associated with the highest prices for entire places.
+
+   ### City Insights Report
+
+   ![image](https://github.com/shishir1991/AirBnB_Power-BI_Project/assets/157515610/96de63d2-c14c-48db-bcd7-111b3f47c7e0)
+
+## Power BI Report
+
+  ![image](https://github.com/shishir1991/AirBnB_Power-BI_Project/assets/157515610/8883663d-2953-43f4-a4a2-ca14172dfc98)
+
+## Contributing
+   Contributions are welcome! Please follow these steps to contribute:
+  - Fork the repository.
+  - Create a new branch (git checkout -b feature-branch).
+  - Make your changes.
+  - Commit your changes (git commit -m 'Add new feature').
+  - Push to the branch (git push origin feature-branch).
+  - Create a new Pull Request.
+
+## License
+   This project is licensed under the MIT License - see the (#LICENSE) file for details.
+
+## Contact
+   Created by Shishir Kherod - feel free to contact me at shishirdma@gmail.com.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
