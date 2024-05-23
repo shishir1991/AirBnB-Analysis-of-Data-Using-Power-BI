@@ -1,6 +1,6 @@
 # AirBnB_Power BI_Project
 
-Project: Analysis of Airbnb Data Using Power BI
+## Project: Analysis of Airbnb Data Using Power BI
 
 ## Table of Contents
 
