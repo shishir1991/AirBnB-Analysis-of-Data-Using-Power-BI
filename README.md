@@ -122,7 +122,7 @@ The primary objective is to analyze Airbnb data to reveal insights into user exp
   - Create a new Pull Request.
 
 ## License
-   This project is licensed under the MIT License - see the [License](#License) file for details.
+   This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
    Created by Shishir Kherod - feel free to contact me at shishirdma@gmail.com.
