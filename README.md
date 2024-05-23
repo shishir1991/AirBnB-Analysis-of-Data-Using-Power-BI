@@ -30,15 +30,15 @@ Airbnb, headquartered in San Francisco, California, operates a popular online ma
 The primary objective is to analyze Airbnb data to reveal insights into user experiences and satisfaction levels with the numerous listed stays, all accomplished using Power BI.
 
 ## Project Goals
-A. Assessing District Location Scores: The aim is to pinpoint the location in the district with the least favorable location scores.
-B. Examining Host Response Time Impact: The goal is to delve into the relationship between host response times and the overall ratings of Airbnb listings, providing valuable insights.
-C. Visualizing Airbnb Listing Prices: The objective is to create visual representations of Airbnb listing prices across different cities and summarize any noteworthy trends or variations.
-D. Analyzing Composite Scores: The task involves creating a composite score that integrates check-in experience and host communication for various districts with subsequent analysis and insights.
-E. Calculating Listing Age and Host Tenure: This objective entails computing the age of Airbnb listings and identifying hosts who have accumulated more than ten years of hosting expertise.
-F. Property Type Price Analysis: The task involves the creation of a visual tree map that displays average prices for various room and property types with specific attention given to the property type associated with the highest prices 
-   for entire places.
-G. Crafting a Comprehensive City Insights Report: This objective entails the creation of a comprehensive report that presents listing prices, guest ratings, and visitor trends for multiple cities, with a particular focus on assessing 
-   changes in visitor trends in 2020 in contrast to earlier years.
+- Assessing District Location Scores: The aim is to pinpoint the location in the district with the least favorable location scores.
+- Examining Host Response Time Impact: The goal is to delve into the relationship between host response times and the overall ratings of Airbnb listings, providing valuable insights.
+- Visualizing Airbnb Listing Prices: The objective is to create visual representations of Airbnb listing prices across different cities and summarize any noteworthy trends or variations.
+- Analyzing Composite Scores: The task involves creating a composite score that integrates check-in experience and host communication for various districts with subsequent analysis and insights.
+- Calculating Listing Age and Host Tenure: This objective entails computing the age of Airbnb listings and identifying hosts who have accumulated more than ten years of hosting expertise.
+- Property Type Price Analysis: The task involves the creation of a visual tree map that displays average prices for various room and property types with specific attention given to the property type associated with the highest prices 
+  for entire places.
+- Crafting a Comprehensive City Insights Report: This objective entails the creation of a comprehensive report that presents listing prices, guest ratings, and visitor trends for multiple cities, with a particular focus on assessing 
+  changes in visitor trends in 2020 in contrast to earlier years.
 
 ## Installation
    - Clone the repository:
@@ -53,20 +53,22 @@ G. Crafting a Comprehensive City Insights Report: This objective entails the cre
 ## Usage
    - Open the Airbnb_Data_Analysis.pbix file in Power BI Desktop.
    - Navigate through the different pages of the report to explore various insights:
-   A. Overview: Summary of key metrics and KPIs
-   B. District Location Scores: Analysis of the least favorable location scores by district
-   C. Host Response Time Impact: Relationship between host response times and overall ratings
-   D. Listing Prices: Visualization of listing prices across different cities
-   E. Composite Scores: Composite score analysis integrating check-in experience and host communication
-   F. Listing Age and Host Tenure: Age of listings and hosts with over ten years of experience
-   G. Property Type Price Analysis: Tree map of average prices for various room and property types
-   H. City Insights Report: Comprehensive report on listing prices, guest ratings, and visitor trends, with a focus on 2020 changes
+     
+   - Overview: Summary of key metrics and KPIs
+   - District Location Scores: Analysis of the least favorable location scores by district
+   - Host Response Time Impact: Relationship between host response times and overall ratings
+   - Listing Prices: Visualization of listing prices across different cities
+   - Composite Scores: Composite score analysis integrating check-in experience and host communication
+   - Listing Age and Host Tenure: Age of listings and hosts with over ten years of experience
+   - Property Type Price Analysis: Tree map of average prices for various room and property types
+   - City Insights Report: Comprehensive report on listing prices, guest ratings, and visitor trends, with a focus on 2020 changes
 
 ## Screenshots
-A. ![image](https://github.com/shishir1991/AirBnB_Power-BI_Project/assets/157515610/263791e0-3034-44e9-9d30-6f10b742fd7d)
+   - District Location Scores
+ ![image](https://github.com/shishir1991/AirBnB_Power-BI_Project/assets/157515610/263791e0-3034-44e9-9d30-6f10b742fd7d)
 
-   As per the Stacked column  chart, the statistics shows that Hong Kong city has the least favourable location score with total of just 36108.
-   Also Paris city has the most favourable location score with the total of 464616.
+   - As per the Stacked column  chart, the statistics shows that Hong Kong city has the least favourable location score with total of just 36108.
+   - Also Paris city has the most favourable location score with the total of 464616.
 
 
 
