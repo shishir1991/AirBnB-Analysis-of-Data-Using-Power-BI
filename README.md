@@ -28,5 +28,9 @@ Power BI is a business analytics tool by Microsoft that allows you to visualize 
 
 3. **Open a Report**: Open any .pbix file in Power BI Desktop to explore the data and visualizations.
 
+## Additional Resources
+- [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
+- [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning/)
+
 ## Contact
 If you have any questions or need further assistance, feel free to contact me at shishirdma@gmail.com. 
